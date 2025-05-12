@@ -1,4 +1,4 @@
--  Hi, I’m @Meow1428
+-  Hi, I’m madhurya
 -  I’m interested in meeting new ppl and learning new things
 -  I’m currently learning data science and analytics
 
